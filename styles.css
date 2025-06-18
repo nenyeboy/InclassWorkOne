@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: radial-gradient(circle, white, lightgray);
+
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+    padding: 8px;
+    text-shadow: 5px 5px 6px gray;
+}
